@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhaneeshkumar22
 - 👀 I’m interested in craziest thinking
-- 🌱 I’m currently learning embedded and cybersecurity
+- 🌱 I’m currently doing projects on React and c#
 - ⚡ Fun fact: The first computer bug was a real insect—a moth stuck in a relay in 1947! 🐛💻
 
 <!---
